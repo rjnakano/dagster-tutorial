@@ -13,5 +13,3 @@ def hello_cereal():
 @job
 def hello_cereal_job():
     hello_cereal()
-    
-        
